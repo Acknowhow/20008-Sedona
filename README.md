@@ -1,7 +1,7 @@
 # Проект «Sedona»
 
 * Студент: [Вадим Корабельник](https://htmlacademy.ru/profile/id20008).
-* Наставник: `Unknown`.
+* Наставник: [Николай Громов](https://htmlacademy.ru/profile/id6170). 
 
 --
 
